@@ -9,7 +9,16 @@
     "devondcarew.bazel-code",
     "gkalpak.aio-docs-utils",
     "ms-vscode.vscode-typescript-tslint-plugin",
-    "xaver.clang-format"
+    "xaver.clang-format",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "donjayamanne.git-extension-pack",
+    "mhutchie.git-graph",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "cyrilletuzi.angular-schematics",
+    "steoates.autoimport",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "johnpapa.angular2"
     // The following extensions are useful when working on angular.io (i.e. inside the `aio/` directory).
     //"angular.ng-template",
     //"dbaeumer.vscode-eslint",
