@@ -54,8 +54,6 @@ Wait for it to build...
 
 ## Setting up for testing (?)
 
-### Coming soon...
-
 ---
 
 # Case 2: Creating an Angular application from the ground-up
